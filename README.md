@@ -1,2 +1,2 @@
-# Stripe-LLD-Solutions
-This repository includes low-level design solutions for Stripe interview problems.
+# Low Level Design 
+This repository includes low-level design solutions for some interview problems.
